@@ -12,7 +12,7 @@ Feature: User List API Test
   
   
   @videoBichoVindo
-  Scenario: Validar Status Code
+  Scenario: Validar Titulo do Video
     When digito o nome do video desejado na barra de pesquisa
     And clico no botao de pesquisa
     And clico no video desejado
